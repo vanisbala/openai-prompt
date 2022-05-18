@@ -41,7 +41,7 @@ This project retrieves prompt results from OpenAI API for the given prompt
 
 ## Deployed Link
 
-- [See live Site](https://vanisbala.github.io/openai-prompt/)
+- [See live Site](https://fantastic-baklava-c03856.netlify.app)
 
 ## Author
 
